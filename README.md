@@ -81,7 +81,7 @@ npm run dev
 
 ```
 Light Mode:
-[Screenshot of the application in light mode showing the task list and input form]
+https://github.com/Shankardevkar/Todo-List/blob/fff52e00e915530702d312f424091cd5877cac7d/Screenshot%202025-04-07%20180909.png
 
 Dark Mode:
 https://github.com/Shankardevkar/Todo-List/blob/ab8ab35d72209349d85198b7ab0ef4d7b893dc18/Screenshot%202025-04-07%20180841.png
