@@ -84,7 +84,7 @@ Light Mode:
 [Screenshot of the application in light mode showing the task list and input form]
 
 Dark Mode:
-[Screenshot of the application in dark mode showing the completed tasks view]
+https://github.com/Shankardevkar/Todo-List/blob/ab8ab35d72209349d85198b7ab0ef4d7b893dc18/Screenshot%202025-04-07%20180841.png
 
 Authentication:
 ![Image Alt](https://github.com/Shankardevkar/Todo-List/blob/79bc0f7f0074d57281b819bd499dfa3286d9ba0c/Screenshot%202025-04-07%20180818.png)
