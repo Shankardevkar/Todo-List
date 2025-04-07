@@ -34,20 +34,20 @@ A feature-rich, responsive Todo List application built with React, Redux, and Ta
 ### Installation
 
 1. Clone the repository:
-```bash
-git clone <repository-url>
-cd Todo-list
-```
+    ```bash
+    git clone <repository-url>
+    cd Todo-list
+    ```
 
 2. Install dependencies:
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 3. Start the development server:
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 4. Open your browser and navigate to `http://localhost:5173`
 
@@ -79,16 +79,14 @@ npm run dev
 
 ## Screenshots
 
-```
-Light Mode:
-[Screenshot of the application in light mode showing the task list and input form]
+**Light Mode:**
+![Light Mode Screenshot](https://raw.githubusercontent.com/Shankardevkar/Todo-List/fff52e00e915530702d312f424091cd5877cac7d/Screenshot%202025-04-07%20180909.png)
 
-Dark Mode:
-[Screenshot of the application in dark mode showing the completed tasks view]
+**Dark Mode:**
+![Dark Mode Screenshot](https://raw.githubusercontent.com/Shankardevkar/Todo-List/ab8ab35d72209349d85198b7ab0ef4d7b893dc18/Screenshot%202025-04-07%20180841.png)
 
-Authentication:
-[Screenshot of the login page with gradient effects]
-```
+**Authentication:**
+![Authentication Screenshot](https://raw.githubusercontent.com/Shankardevkar/Todo-List/79bc0f7f0074d57281b819bd499dfa3286d9ba0c/Screenshot%202025-04-07%20180818.png)
 
 ## Contributing
 
