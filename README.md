@@ -87,7 +87,7 @@ Dark Mode:
 [Screenshot of the application in dark mode showing the completed tasks view]
 
 Authentication:
-[Screenshot of the login page with gradient effects]
+![Image Alt](https://github.com/Shankardevkar/Todo-List/blob/79bc0f7f0074d57281b819bd499dfa3286d9ba0c/Screenshot%202025-04-07%20180818.png)
 ```
 
 ## Contributing
